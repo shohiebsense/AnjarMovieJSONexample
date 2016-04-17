@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.androidkejar.sunshine.MainActivity">
+    <item
+        android:id="@+id/sortbyrating"
+        android:orderInCategory="100"
+        android:title="sort by rating"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sortbytitle"
+        android:orderInCategory="100"
+        android:title="sort by rating"
+        app:showAsAction="never" />
+</menu>
